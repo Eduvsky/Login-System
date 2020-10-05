@@ -2,6 +2,6 @@
 
 Comes whit register and login functions 
 
-  Password Confirm
-  Unique username
-  Multiple "accounts"
+  - Password Confirm
+  - Unique username
+  - Multiple "accounts"
